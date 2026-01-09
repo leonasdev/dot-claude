@@ -1,0 +1,21 @@
+{
+  "name": "dot-claude",
+  "description": "My personal Claude plugins.",
+  "owner": {
+    "name": "Leon",
+    "email": "leonasdev@github.com"
+  },
+  "plugins": [
+    {
+      "name": "git-commands",
+      "description": "Git related commands.",
+      "version": "0.0.1",
+      "source": "./plugins/git-commands",
+      "author": {
+        "name": "Leon",
+        "url": "https://github.com/leonasdev",
+        "email": "leonasdev@github.com"
+      }
+    }
+  ]
+}

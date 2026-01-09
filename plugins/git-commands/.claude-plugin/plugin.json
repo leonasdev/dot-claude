@@ -1,0 +1,10 @@
+{
+  "name": "git-commands",
+  "description": "Git related commands.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Leon",
+    "url": "https://github.com/leonasdev",
+    "email": "leonasdev@github.com"
+  }
+}
