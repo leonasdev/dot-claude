@@ -1,5 +1,6 @@
 ---
-description: (Opus 4.5) Generate a git commit message for staged changes
+description: (Opus) Generate a git commit message for staged changes
+model: opus
 ---
 
 ## Context

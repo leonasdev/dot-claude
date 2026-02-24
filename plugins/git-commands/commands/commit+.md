@@ -1,6 +1,6 @@
 ---
-description: (Sonnet 4.5) Generate a git commit message for staged changes
-model: claude-sonnet-4-5
+description: (Sonnet) Generate a git commit message for staged changes
+model: sonnet
 ---
 
 ## Context

@@ -1,6 +1,6 @@
 ---
-description: (Haiku 4.5) Generate a git commit subject for staged changes
-model: claude-haiku-4-5
+description: (Haiku) Generate a git commit subject for staged changes
+model: haiku
 ---
 
 ## Context
