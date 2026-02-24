@@ -9,7 +9,7 @@
     {
       "name": "git-commands",
       "description": "Git related commands.",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "source": "./plugins/git-commands",
       "author": {
         "name": "Leon",
