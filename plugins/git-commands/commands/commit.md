@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: true
 description: (Haiku) Generate a git commit subject for staged changes
 model: haiku
 ---

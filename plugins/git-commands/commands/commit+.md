@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: true
 description: (Sonnet) Generate a git commit message for staged changes
 model: sonnet
 ---

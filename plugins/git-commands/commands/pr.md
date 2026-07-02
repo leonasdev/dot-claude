@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: true
 description: Generate a PR title and body
 ---
 

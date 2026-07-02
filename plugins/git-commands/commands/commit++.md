@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: true
 description: (Opus) Generate a git commit message for staged changes
 model: opus
 ---
